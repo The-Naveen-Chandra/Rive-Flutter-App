@@ -1,3 +1,4 @@
+// constants
 import 'package:flutter/material.dart';
 
 const Color backgroundColor2 = Color(0xFF17203A);
