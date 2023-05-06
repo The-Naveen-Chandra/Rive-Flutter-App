@@ -2,7 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:rive/rive.dart';
 import 'package:rive_animation/components/animated_bar.dart';
 import 'package:rive_animation/constant/constants.dart';
-import 'package:rive_animation/utils/utils.dart';
+import 'package:rive_animation/models/rive_asset.dart';
+import 'package:rive_animation/utils/rive_utils.dart';
 
 class EntryPoint extends StatefulWidget {
   const EntryPoint({super.key});

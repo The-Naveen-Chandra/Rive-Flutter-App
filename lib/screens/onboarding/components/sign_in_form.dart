@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:rive/rive.dart';
-import 'package:rive_animation/screens/home/entry_point.dart';
+import 'package:rive_animation/components/entry_point.dart';
 import 'package:rive_animation/screens/onboarding/components/custom_positioned.dart';
 
 
